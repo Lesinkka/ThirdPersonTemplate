@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Tasty and Dot.slnx"
+    "dotnet.defaultSolution": "Untitled.slnx"
 }
